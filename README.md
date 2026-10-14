@@ -14,3 +14,4 @@
   Add repo secrets: SERVER_HOST, SERVER_USER, SSH_KEY (private key of a deploy user).
   If the server is inside the company network, GitHub cannot reach it:
   use a self-hosted runner, or just run ./deploy.sh manually.
+  Next
